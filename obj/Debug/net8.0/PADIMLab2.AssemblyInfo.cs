@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PADIMLab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca0290140ca773b52c00f47bdc198a46b03a525")]
 [assembly: System.Reflection.AssemblyProductAttribute("PADIMLab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PADIMLab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
