@@ -1,0 +1,15 @@
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\bin\Debug\net8.0\PADIMLab2.exe
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\bin\Debug\net8.0\PADIMLab2.deps.json
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\bin\Debug\net8.0\PADIMLab2.runtimeconfig.json
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\bin\Debug\net8.0\PADIMLab2.dll
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\bin\Debug\net8.0\PADIMLab2.pdb
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.AssemblyInfoInputs.cache
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.AssemblyInfo.cs
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.csproj.CoreCompileInputs.cache
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.sourcelink.json
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.dll
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\refint\PADIMLab2.dll
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.pdb
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\PADIMLab2.genruntimeconfig.cache
+C:\Users\cylwi\OneDrive\Pulpit\.Net\projekciki\Reactywne\PADIMLab2\obj\Debug\net8.0\ref\PADIMLab2.dll

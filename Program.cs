@@ -26,6 +26,21 @@ class Program
 		Console.WriteLine("\nStarting Sending Emails:");
 		EmailSender.ForEach();
 
+		 Console.WriteLine("\nFetching Products:");
+        ProductFetcher.FetchProducts();
+        Task.Delay(2000).Wait();
+
+        Console.WriteLine("\nRunning External Integration with Exception Handling:");
+        ExternalIntegration.RunTasksWithExceptionHandling();
+        Task.Delay(2000).Wait();
+
+        Console.WriteLine("\nStarting Account Balance Update:");
+        AccountBalance.UpdateBalance();
+        Task.Delay(2000).Wait();
+
+        Console.WriteLine("\nStarting Order Processing with Producer-Consumer Pattern:");
+        OrderProcessing.StartProcessing();
+
 		Console.WriteLine("\nAll operations completed.");
 	}
 }

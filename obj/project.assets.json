@@ -8,25 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/kamil/.nuget/packages/": {}
+    "C:\\Users\\cylwi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kamil/PADIMLab2/PADIMLab2.csproj",
+      "projectUniqueName": "C:\\Users\\cylwi\\OneDrive\\Pulpit\\.Net\\projekciki\\Reactywne\\PADIMLab2\\PADIMLab2.csproj",
       "projectName": "PADIMLab2",
-      "projectPath": "/Users/kamil/PADIMLab2/PADIMLab2.csproj",
-      "packagesPath": "/Users/kamil/.nuget/packages/",
-      "outputPath": "/Users/kamil/PADIMLab2/obj/",
+      "projectPath": "C:\\Users\\cylwi\\OneDrive\\Pulpit\\.Net\\projekciki\\Reactywne\\PADIMLab2\\PADIMLab2.csproj",
+      "packagesPath": "C:\\Users\\cylwi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cylwi\\OneDrive\\Pulpit\\.Net\\projekciki\\Reactywne\\PADIMLab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kamil/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\cylwi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -39,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
